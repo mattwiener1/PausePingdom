@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PausePingdom", "PausePingdom\PausePingdom.csproj", "{15499BE1-2E24-4211-BC04-92D976344364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15499BE1-2E24-4211-BC04-92D976344364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15499BE1-2E24-4211-BC04-92D976344364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15499BE1-2E24-4211-BC04-92D976344364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15499BE1-2E24-4211-BC04-92D976344364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AECBD4-4C4E-4B44-8231-DD62FD107A79}
+	EndGlobalSection
+EndGlobal
